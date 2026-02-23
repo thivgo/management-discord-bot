@@ -1,0 +1,615 @@
+{
+  "1372646139928772788-206139158022848513-1747355526100": {
+    "id": "1372646139928772788-206139158022848513-1747355526100",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {},
+    "selected": null,
+    "userId": "206139158022848513"
+  },
+  "1372680131109195856-205839888812212224-1747358842244": {
+    "id": "1372680131109195856-205839888812212224-1747358842244",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {},
+    "selected": null,
+    "userId": "205839888812212224"
+  },
+  "1372680131109195856-242833069663453195-1747361091869": {
+    "id": "1372680131109195856-242833069663453195-1747361091869",
+    "cliente": "Perola Gratt",
+    "postal": "Não sei",
+    "empresa": "Fazenda Black White",
+    "cidade": "Valentine",
+    "obs": "30 rações de Cavalo - $ 120 - Já no Bau!!!!",
+    "items": {
+      "RAÇÃO PARA OVELHAS": {
+        "quantidade": 40,
+        "produzido": 0
+      },
+      "RAÇÃO PARA CABRAS": {
+        "quantidade": 80,
+        "produzido": 80
+      }
+    },
+    "selected": "RAÇÃO PARA CABRAS",
+    "userId": "242833069663453195"
+  },
+  "1372680131109195856-242833069663453195-1747406601337": {
+    "id": "1372680131109195856-242833069663453195-1747406601337",
+    "cliente": "Rurik",
+    "postal": "2270",
+    "empresa": "Fazenda Recanto Verde",
+    "cidade": "Valentine",
+    "obs": "",
+    "items": {
+      "RAÇÃO PARA VACAS": {
+        "quantidade": 40,
+        "produzido": 0
+      },
+      "RAÇÃO PARA OVELHAS": {
+        "quantidade": 40,
+        "produzido": 0
+      },
+      "RAÇÃO PARA GALINHAS": {
+        "quantidade": 40,
+        "produzido": 0
+      },
+      "RAÇÃO PARA PORCOS": {
+        "quantidade": 20,
+        "produzido": 0
+      },
+      "RAÇÃO PARA CABRAS": {
+        "quantidade": 1,
+        "produzido": 0
+      }
+    },
+    "selected": "RAÇÃO PARA CABRAS",
+    "userId": "242833069663453195"
+  },
+  "1372680131109195856-206139158022848513-1747489599196": {
+    "id": "1372680131109195856-206139158022848513-1747489599196",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {},
+    "selected": null,
+    "userId": "206139158022848513"
+  },
+  "1372680131109195856-242833069663453195-1747501014007": {
+    "id": "1372680131109195856-242833069663453195-1747501014007",
+    "cliente": "Rurik Mitra",
+    "postal": "2270",
+    "empresa": "Fazenda Recanto Verde",
+    "cidade": "Valentine",
+    "obs": "",
+    "items": {
+      "RAÇÃO PARA VACAS": {
+        "quantidade": 45,
+        "produzido": 5
+      },
+      "RAÇÃO PARA PORCOS": {
+        "quantidade": 50,
+        "produzido": 50
+      },
+      "RAÇÃO PARA CABRAS": {
+        "quantidade": 50,
+        "produzido": 0
+      },
+      "------------ RAÇÕES ------------": {
+        "quantidade": 1,
+        "produzido": 0
+      }
+    },
+    "selected": "------------ RAÇÕES ------------",
+    "userId": "242833069663453195"
+  },
+  "1372680131109195856-206139158022848513-1747532148472": {
+    "id": "1372680131109195856-206139158022848513-1747532148472",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {},
+    "selected": null,
+    "userId": "206139158022848513"
+  },
+  "1372680131109195856-242833069663453195-1747536021206": {
+    "id": "1372680131109195856-242833069663453195-1747536021206",
+    "cliente": "Luke Firmino",
+    "postal": "2183",
+    "empresa": "Fazenda Roanoke",
+    "cidade": "Annesburg",
+    "obs": "2 bichos a cobrar! $ 60 .",
+    "items": {
+      "RAÇÃO PARA OVELHAS": {
+        "quantidade": 50,
+        "produzido": 0
+      }
+    },
+    "selected": "RAÇÃO PARA OVELHAS",
+    "userId": "242833069663453195"
+  },
+  "1372680131109195856-242833069663453195-1748205094798": {
+    "id": "1372680131109195856-242833069663453195-1748205094798",
+    "cliente": "Furia",
+    "postal": "9",
+    "empresa": "Clínica",
+    "cidade": "Valentine",
+    "obs": "",
+    "items": {
+      "ESTIMULANTE DE CAVALOS": {
+        "quantidade": 30,
+        "produzido": 0
+      }
+    },
+    "selected": "ESTIMULANTE DE CAVALOS",
+    "userId": "242833069663453195"
+  },
+  "1372680131109195856-206139158022848513-1748212022414": {
+    "id": "1372680131109195856-206139158022848513-1748212022414",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {},
+    "selected": null,
+    "selectedCategoria": null,
+    "selectedProduto": null,
+    "userId": "206139158022848513"
+  },
+  "1372680131109195856-242833069663453195-1748464217105": {
+    "id": "1372680131109195856-242833069663453195-1748464217105",
+    "cliente": "Shay Mitre",
+    "postal": "2273",
+    "empresa": "Fazenda Recanto Verde",
+    "cidade": "Valentine",
+    "obs": "",
+    "items": {
+      "RAÇÃO PARA CABRAS": {
+        "quantidade": 1,
+        "produzido": 0
+      }
+    },
+    "selected": "RAÇÃO PARA CABRAS",
+    "selectedCategoria": "RAÇÕES DESCONTO",
+    "selectedProduto": "RAÇÃO PARA CABRAS",
+    "userId": "242833069663453195"
+  },
+  "1372680131109195856-242833069663453195-1748642416923": {
+    "id": "1372680131109195856-242833069663453195-1748642416923",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {
+      "RAÇÃO PARA CABRAS": {
+        "quantidade": 30,
+        "produzido": 30
+      },
+      "RAÇÃO PARA GALINHAS": {
+        "quantidade": 10,
+        "produzido": 0
+      },
+      "VACINA PARA CAVALOS": {
+        "quantidade": 2,
+        "produzido": 2
+      }
+    },
+    "selected": "RAÇÃO PARA CABRAS",
+    "selectedCategoria": "RAÇÕES",
+    "selectedProduto": "RAÇÃO PARA CABRAS",
+    "userId": "242833069663453195"
+  },
+  "1372680131109195856-242833069663453195-1748740122900": {
+    "id": "1372680131109195856-242833069663453195-1748740122900",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {
+      "BOOST DE CAVALOS": {
+        "quantidade": 100,
+        "produzido": 0
+      }
+    },
+    "selected": "BOOST DE CAVALOS",
+    "selectedCategoria": "INJEÇÕES",
+    "selectedProduto": "BOOST DE CAVALOS",
+    "userId": "242833069663453195"
+  },
+  "1372680131109195856-242833069663453195-1748813829293": {
+    "id": "1372680131109195856-242833069663453195-1748813829293",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {
+      "RAÇÃO PARA VACAS": {
+        "quantidade": 40,
+        "produzido": 0
+      },
+      "RAÇÃO PARA CAVALOS": {
+        "quantidade": 1,
+        "produzido": 0
+      },
+      "RAÇÃO PARA CABRAS": {
+        "quantidade": 40,
+        "produzido": 0
+      }
+    },
+    "selected": "RAÇÃO PARA CABRAS",
+    "selectedCategoria": "RAÇÕES",
+    "selectedProduto": "RAÇÃO PARA CABRAS",
+    "userId": "242833069663453195"
+  },
+  "1372680131109195856-206139158022848513-1748814386417": {
+    "id": "1372680131109195856-206139158022848513-1748814386417",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {},
+    "selected": null,
+    "selectedCategoria": null,
+    "selectedProduto": null,
+    "userId": "206139158022848513"
+  },
+  "1372680131109195856-206139158022848513-1748814393379": {
+    "id": "1372680131109195856-206139158022848513-1748814393379",
+    "cliente": "Furia",
+    "postal": "9",
+    "empresa": "Clínica",
+    "cidade": "Valentine",
+    "obs": "",
+    "items": {
+      "VACINA PARA CAVALOS": {
+        "quantidade": 123,
+        "produzido": 123
+      }
+    },
+    "selected": "VACINA PARA CAVALOS",
+    "selectedCategoria": "INJEÇÕES DESCONTO",
+    "selectedProduto": "VACINA PARA CAVALOS",
+    "userId": "206139158022848513"
+  },
+  "1372680131109195856-205839888812212224-1748835387437": {
+    "id": "1372680131109195856-205839888812212224-1748835387437",
+    "cliente": "JJ",
+    "postal": "9999",
+    "empresa": "Staff",
+    "cidade": "SD",
+    "obs": "entregar jj amanha",
+    "items": {
+      "RAÇÃO PARA CABRAS": {
+        "quantidade": 1,
+        "produzido": 0
+      }
+    },
+    "selected": null,
+    "selectedCategoria": "RAÇÕES",
+    "selectedProduto": null,
+    "userId": "205839888812212224"
+  },
+  "1372680131109195856-205839888812212224-1749095989133": {
+    "id": "1372680131109195856-205839888812212224-1749095989133",
+    "cliente": "Amisaday Oxford",
+    "postal": "1674",
+    "empresa": "Fazenda Oxford",
+    "cidade": "Emerald",
+    "obs": "Amir ta ai dia 6.",
+    "items": {
+      "RAÇÃO PARA PORCOS": {
+        "quantidade": 50,
+        "produzido": 50
+      },
+      "BOOST DE CAVALOS": {
+        "quantidade": 30,
+        "produzido": 30
+      },
+      "RAÇÃO PARA GALINHAS": {
+        "quantidade": 50,
+        "produzido": 50
+      }
+    },
+    "selected": "RAÇÃO PARA GALINHAS",
+    "selectedCategoria": "RAÇÕES",
+    "selectedProduto": "RAÇÃO PARA GALINHAS",
+    "userId": "205839888812212224"
+  },
+  "1372680131109195856-205839888812212224-1749096894769": {
+    "id": "1372680131109195856-205839888812212224-1749096894769",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {},
+    "selected": null,
+    "selectedCategoria": "RAÇÕES",
+    "selectedProduto": null,
+    "userId": "205839888812212224"
+  },
+  "1372680131109195856-242833069663453195-1749148087138": {
+    "id": "1372680131109195856-242833069663453195-1749148087138",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {
+      "RAÇÃO PARA VACAS": {
+        "quantidade": 20,
+        "produzido": 20
+      },
+      "RAÇÃO PARA PORCOS": {
+        "quantidade": 20,
+        "produzido": 20
+      },
+      "RAÇÃO PARA GALINHAS": {
+        "quantidade": 20,
+        "produzido": 20
+      }
+    },
+    "selected": "RAÇÃO PARA VACAS",
+    "selectedCategoria": "RAÇÕES",
+    "selectedProduto": "RAÇÃO PARA VACAS",
+    "userId": "242833069663453195"
+  },
+  "1372680131109195856-206139158022848513-1749166001645": {
+    "id": "1372680131109195856-206139158022848513-1749166001645",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {},
+    "selected": null,
+    "selectedCategoria": null,
+    "selectedProduto": null,
+    "userId": "206139158022848513"
+  },
+  "1372680131109195856-206139158022848513-1749166065310": {
+    "id": "1372680131109195856-206139158022848513-1749166065310",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {},
+    "selected": null,
+    "selectedCategoria": null,
+    "selectedProduto": null,
+    "userId": "206139158022848513"
+  },
+  "1372680131109195856-205839888812212224-1749773634325": {
+    "id": "1372680131109195856-205839888812212224-1749773634325",
+    "cliente": "Carol Sctofield",
+    "postal": "1553",
+    "empresa": "Fazenda Scofield",
+    "cidade": "Emerald",
+    "obs": "",
+    "items": {
+      "RAÇÃO PARA VACAS": {
+        "quantidade": 100,
+        "produzido": 100
+      }
+    },
+    "selected": "RAÇÃO PARA VACAS",
+    "selectedCategoria": "RAÇÕES",
+    "selectedProduto": "RAÇÃO PARA VACAS",
+    "userId": "205839888812212224"
+  },
+  "1372680131109195856-206139158022848513-1750031095643": {
+    "id": "1372680131109195856-206139158022848513-1750031095643",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {},
+    "selected": null,
+    "selectedCategoria": null,
+    "selectedProduto": null,
+    "userId": "206139158022848513"
+  },
+  "1372680131109195856-206139158022848513-1750091029488": {
+    "id": "1372680131109195856-206139158022848513-1750091029488",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {},
+    "selected": null,
+    "selectedCategoria": null,
+    "selectedProduto": null,
+    "userId": "206139158022848513"
+  },
+  "1372680131109195856-206139158022848513-1750212980329": {
+    "id": "1372680131109195856-206139158022848513-1750212980329",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {},
+    "selected": null,
+    "selectedCategoria": null,
+    "selectedProduto": null,
+    "userId": "206139158022848513"
+  },
+  "1372680131109195856-206139158022848513-1750474584892": {
+    "id": "1372680131109195856-206139158022848513-1750474584892",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {
+      "RAÇÃO PARA OVELHAS": {
+        "quantidade": 1,
+        "produzido": 0
+      }
+    },
+    "selected": "RAÇÃO PARA OVELHAS",
+    "selectedCategoria": "RAÇÕES",
+    "selectedProduto": "RAÇÃO PARA OVELHAS",
+    "userId": "206139158022848513"
+  },
+  "1372680131109195856-205839888812212224-1750805457231": {
+    "id": "1372680131109195856-205839888812212224-1750805457231",
+    "cliente": "Nilton",
+    "postal": "1976",
+    "empresa": "Fazenda Candyland",
+    "cidade": "Emerald",
+    "obs": "",
+    "items": {},
+    "selected": null,
+    "selectedCategoria": "RAÇÕES",
+    "selectedProduto": null,
+    "userId": "205839888812212224"
+  },
+  "1372680131109195856-206139158022848513-1751044364246": {
+    "id": "1372680131109195856-206139158022848513-1751044364246",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {},
+    "selected": null,
+    "selectedCategoria": null,
+    "selectedProduto": null,
+    "userId": "206139158022848513"
+  },
+  "1372680131109195856-206139158022848513-1752590851852": {
+    "id": "1372680131109195856-206139158022848513-1752590851852",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {},
+    "selected": null,
+    "selectedCategoria": null,
+    "selectedProduto": null,
+    "userId": "206139158022848513"
+  },
+  "1372680131109195856-242833069663453195-1752810507267": {
+    "id": "1372680131109195856-242833069663453195-1752810507267",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {},
+    "selected": null,
+    "selectedCategoria": null,
+    "selectedProduto": null,
+    "userId": "242833069663453195"
+  },
+  "1372680131109195856-206139158022848513-1753721300809": {
+    "id": "1372680131109195856-206139158022848513-1753721300809",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {
+      "VACINA PARA CAVALOS": {
+        "quantidade": 1,
+        "produzido": 0
+      }
+    },
+    "selected": "VACINA PARA CAVALOS",
+    "selectedCategoria": "INJEÇÕES",
+    "selectedProduto": "VACINA PARA CAVALOS",
+    "userId": "206139158022848513"
+  },
+  "1372680131109195856-206139158022848513-1755198492047": {
+    "id": "1372680131109195856-206139158022848513-1755198492047",
+    "cliente": "",
+    "postal": "",
+    "empresa": "",
+    "cidade": "",
+    "obs": "",
+    "items": {},
+    "selected": null,
+    "selectedCategoria": null,
+    "selectedProduto": null,
+    "userId": "206139158022848513"
+  },
+  "1372680131109195856-206139158022848513-1755734912614": {
+    "id": "1372680131109195856-206139158022848513-1755734912614",
+    "cliente": "Benvinda",
+    "postal": "1350",
+    "empresa": "Saloon",
+    "cidade": "Rhodes",
+    "obs": "",
+    "items": {
+      "VACINA PARA CAVALOS": {
+        "quantidade": 10,
+        "produzido": 10
+      }
+    },
+    "selected": "VACINA PARA CAVALOS",
+    "selectedCategoria": "INJEÇÕES",
+    "selectedProduto": "VACINA PARA CAVALOS",
+    "userId": "206139158022848513"
+  },
+  "1372680131109195856-242833069663453195-1757028275393": {
+    "id": "1372680131109195856-242833069663453195-1757028275393",
+    "cliente": "Dr. Jhon",
+    "postal": "2571",
+    "empresa": "Clínica",
+    "cidade": "Valentine",
+    "obs": "",
+    "items": {
+      "CANA-DE-AÇÚCAR": {
+        "quantidade": 750,
+        "produzido": 0
+      }
+    },
+    "selected": "CANA-DE-AÇÚCAR",
+    "selectedCategoria": "FAZENDA",
+    "selectedProduto": "CANA-DE-AÇÚCAR",
+    "userId": "242833069663453195"
+  },
+  "1372680131109195856-242833069663453195-1757210873381": {
+    "id": "1372680131109195856-242833069663453195-1757210873381",
+    "cliente": "Dra. Maryane",
+    "postal": "3031",
+    "empresa": "Clínica",
+    "cidade": "Annesburg",
+    "obs": "",
+    "items": {
+      "GINSENG": {
+        "quantidade": 700,
+        "produzido": 0
+      },
+      "BOLDO": {
+        "quantidade": 500,
+        "produzido": 0
+      }
+    },
+    "selected": "BOLDO",
+    "selectedCategoria": "FAZENDA",
+    "selectedProduto": "BOLDO",
+    "userId": "242833069663453195"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "bot_v3",
+  "version": "3.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thiago a.k.a Udyr",
+  "license": "ISC",
+  "description": "Bot para gerenciamento",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}

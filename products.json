@@ -1,0 +1,56 @@
+{
+  "INJEÇÕES": {
+    "VACINA PARA CAVALOS": 20.7,
+    "BOOST DE CAVALOS": 13.5,
+    "ESTIMULANTE DE CAVALOS": 13.5,
+    "VACINA PARA PET": 30
+  },
+  "RAÇÕES": {
+    "RAÇÃO DE VACA": 8.7,
+    "RAÇÃO DE PORCO": 8.7,
+    "RAÇÃO DE GALINHA": 8.7,
+    "RAÇÃO DE CABRA": 8.7,
+    "RAÇÃO DE OVELHA": 8.7,
+    "RAÇÃO DE CACHORRO": 5.55,
+    "RAÇÃO DE COELHO": 6.2,
+    "RAÇÃO DE CAVALO": 6.15,
+    "COMIDA DE PET": 6,
+    "ÁGUA DE PET": 5
+  },
+  "FAZENDA": {
+    "ALGODÃO": 0.3,
+    "MAÇÃ": 0.3,
+    "CENOURA": 0.3,
+    "AZEITONA": 0.3,
+    "FEIJÃO": 0.3,
+    "FERTILIZANTE": 0.2,
+    "SEIVA": 0.3,
+    "CEBOLA": 0.3,
+    "ALHO": 0.3,
+    "PIMENTA": 0.3,
+    "LARANJA": 0.3,
+    "LIMÃO": 0.3,
+    "JABUTICABA": 0.3,
+    "SACO DE FARINHA": 2.3,
+    "SACO DE FUBÁ": 3.6,
+    "SACO DE AÇÚCAR": 4.8,
+    "MORANGO": 0.3,
+    "CANA-DE-AÇÚCAR": 0.3,
+    "MILHO": 0.3,
+    "UVA": 0.3,
+    "MARACUJÁ": 0.3,
+    "BOLDO": 0.3,
+    "GINSENG": 0.3,
+    "FIBRA": 0.3,
+    "JUNCO": 0.3
+  },
+  "CARNES EMBALADAS": {
+    "FRANGO": 6.4,
+    "GADO": 5.2,
+    "CAVALO": 5.2,
+    "OVELHA": 5.2,
+    "COELHO": 5.2,
+    "PORCO": 5.2,
+    "CABRA": 5.2
+  }
+}
